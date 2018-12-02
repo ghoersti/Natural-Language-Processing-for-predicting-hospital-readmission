@@ -1,12 +1,12 @@
 # Natural-Language-Processing-for-predicting-hospital-readmission
-A predictive model built using Natural Language Processing (NLP) to identify patients at the risk of readmission.
+A predictive model(pyspark) built using Natural Language Processing (NLP) to identify patients at the risk of readmission.
 
 ## Data 
 Using the MIMIC-III database
-* ADMISSIONS: 
+**ADMISSIONS**: 
 Contains unique hospitalizations for each patient in the database. It has 58,976 unique
 admissions of 46,520 patients. 5,854 admissions have a date of death specified.
-* NOTEEVENTS: 
+**NOTEEVENTS**: 
 Contains deidentified notes, such as ECG, radiology reports, nursing and physician notes,
 discharge summaries for each hospitalization. It has 2,083,180 unique notes.
 
