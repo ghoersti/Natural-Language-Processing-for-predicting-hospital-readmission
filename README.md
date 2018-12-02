@@ -2,13 +2,14 @@
 A predictive model built using Natural Language Processing (NLP) to identify patients at the risk of readmission.
 
 ## Technical Requirements 
-(linux Only)
+* Docker
+* Ubuntu 16.04 or greater 
 In order to re-run this code it is in the best interest of the user to use the same docker image. 
 ### Pull Docker Image 
-**sudo docker pull ucsddse230/cse255-dse230**
+sudo docker pull ucsddse230/cse255-dse230
 
 ### Run Docker Image 
-** docker run -it -m 6900 -p 8889:8888 -v /local/path/project:/home/ucsddse230/work ucsddse230/cse255-dse230 /bin/bas**
+docker run -it -m 6900 -p 8889:8888 -v /local/path/project:/home/ucsddse230/work ucsddse230/cse255-dse230 /bin/bas
 
 
 
