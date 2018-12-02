@@ -17,6 +17,7 @@ docker run -it -m 6900 -p 8889:8888 -v /local/path/project:/home/ucsddse230/work
 
 ## Data 
 Using the MIMIC-III database
+https://physionet.org/works/MIMICIIIClinicalDatabase/files/
 
 **ADMISSIONS**: 
 Contains unique hospitalizations for each patient in the database. It has 58,976 unique
