@@ -4,6 +4,7 @@ A predictive model built using Natural Language Processing (NLP) to identify pat
 ## Technical Requirements 
 * Docker
 * Ubuntu 16.04 or greater 
+* Azure HDINSIGHTS cluster 
 
 In order to re-run this code it is in the best interest of the user to use the same docker image. 
 ### Pull Docker Image 
