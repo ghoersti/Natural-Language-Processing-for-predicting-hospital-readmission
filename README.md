@@ -2,7 +2,8 @@
 A predictive model built using Natural Language Processing (NLP) to identify patients at the risk of readmission.
 
 ## Technical Requirements 
-** Please follow detailed instructions in Usage_instructions.ipynb**
+
+**Please follow detailed instructions in Usage_instructions.ipynb**
 * Docker
 * Ubuntu 16.04 or greater 
 * Azure HDINSIGHTS cluster 
