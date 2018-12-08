@@ -24,7 +24,7 @@ In order to re-run this code it is in the best interest of the user to use the s
 
 **Extract code**
 
-Extract "Team13_NLP.tar.gz" and copy final_project folder at /local/path/project so that you can see it inside docker under path     "/home/ucsddse230/work"
+Extract "Team13_NLP.tar.gz" and copy final_project folder to /local/path/project so that you can see it inside docker under path     "/home/ucsddse230/work"
 
 From within the docker container
 
