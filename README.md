@@ -39,7 +39,7 @@ Run :
 
 Go to http://localhost:8889
 
-Once inside Jypiter Notebook you can run all the notebooks as described below.
+Once inside Jupyter Notebook you can run all the notebooks as described below.
 
 
 ## Final Model validation
